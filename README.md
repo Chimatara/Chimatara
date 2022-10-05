@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Chimatara
-- 👀 I’m interested in becoming a Software Engineer
-- 🌱 I’m currently learning Frontend Development
-- 💞️ I’m looking to collaborate with other frontend engineers
+Hi, I’m @Chimatara,
+I’m learning to becoming a Software Engineer. I’m currently learning Frontend Development and will love to collaborate with other frontend engineers.
 
 
 <!---
