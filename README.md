@@ -1,5 +1,5 @@
 Hi, I’m @Chimatara,
-I’m learning to becoming a Software Engineer. I’m currently learning Frontend Development and will love to collaborate with other frontend engineers.
+I’m learning to become a Software Engineer. I’m currently learning Frontend Development and will love to collaborate with other frontend engineers.
 
 
 <!---
